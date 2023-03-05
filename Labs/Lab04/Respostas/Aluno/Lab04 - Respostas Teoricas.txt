@@ -1,0 +1,4 @@
+-=-=- Exercícios de Revisão -=-=-
+
+-> Questão 1
+Mudando a seed do programa, os resultados também mudam. Porém, quando executado várias vezes com a mesma seed, o programa não apresenta resultados diferentes.

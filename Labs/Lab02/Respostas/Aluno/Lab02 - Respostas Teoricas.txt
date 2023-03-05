@@ -1,0 +1,10 @@
+-=-=- Exercícios de Revisão -=-=-
+
+-> Questão 3
+O programa falha em exibir os acentos da string. Porém, os acentos contidos no input do usuário são exibidos corretamente.
+
+-> Questão 4
+Não há diferença na acentuação quando o programa é executado pelo terminal. Porém, ao executar o comando "chcp 1252" no prompt de comando ou diretamente na linha de código através da função system(), a acentuação passa a ser exibida corretamente. 
+
+-> Questão 5
+No caso de não haver uma verificação, quando digitado menos argumentos do que o necessário, o programa não irá finalizar as intruções do cout e encerrará na exibição do primeiro argumento.

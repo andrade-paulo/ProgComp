@@ -1,0 +1,19 @@
+-=-=- Revisão -=-=-
+-> Questão 1
+Os valores destinguem devido à precisão do float. Ao exibir apenas 6 dígitos em formato científico, o float consegue ter uma precisão suficientemente boa. Porém, ao exibir o formato decimal, o float não consegue atingir um valor tão preciso quanto o double ou o long.
+
+-=-=- Aprendizagem -=-=-
+-> Questão 1
+---=---=---=--
+ | a | b | c |
+---=---=---=--
+1| 3 |   |   |
+2| 3 | 4 |   |
+3| 3 | 4 | 1 |
+4| 5 | 4 | 1 |
+5| 5 | 4 | 1 |
+6| 5 | 2 | 1 |
+---=---=---=--
+
+-> Questão 5
+No final do exemplo, a diferença entre os resultados chegou perto de 80. Isso mostra a necessidade de usar os tipos corretos para cada abordagem, pois as diferenças que antes eram decimais podem se tornar decisivas.

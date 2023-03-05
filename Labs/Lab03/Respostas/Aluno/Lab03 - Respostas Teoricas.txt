@@ -1,0 +1,4 @@
+-=-=- Exercício de Revisão -=-=-
+
+-> Questão 1
+O programa continua funcionando mesmo se, no input do usuário, for usado um enter no lugar do espaço, ou se for trocado um cin por vários.

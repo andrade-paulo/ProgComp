@@ -1,0 +1,20 @@
+-=-=- Exercícios de Revisão -=-=-
+
+-> Questão 1
+No primeiro caso, bastaria adicionar: cout << "Inicializando..."; alarme();
+
+Já no segundo caso, a função alarme não poderia ser reaproveitada, deixando duas opções: colocar o comando inteiro direto no main(), ou criar uma nova função chamada alarmeFinal()
+
+-> Questão 2
+a) Nos meus testes, a f() é executada primeiro
+
+b) O resultado deveria ser 8, mas ao inverter as funções f() e g(), o resultado final correto se torna 12
+
+c) Não existe garantia, pois o compilador pode decidir qual função vai executar primeiro, o que altera o valor final. Portanto, por mais que nós humanos possamos considerar um valor como correto, a máquina pode trazer um resultado que não seja necessariamente errado nos termos computacionais.
+
+-=-=- Exercícios de Aprendizagem -=-=-
+
+-> Questão 1
+As duas opções têm resultados iguais, pois em ambas existe a decalaração e a inicialização da variável. A distinção está apenas no título das variáveis e na organização do código, que não tem nenhuma influência no desempenho, sendo uma decisão puramente estética. 
+
+A posição dos comandos dentro do código mudam de acordo com o escopo, podendo ser declarações de variáveis globais ou locais, caso colocados fora ou dentro de funções, respectivamente.

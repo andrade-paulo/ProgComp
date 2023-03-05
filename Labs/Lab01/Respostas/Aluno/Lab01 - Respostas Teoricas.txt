@@ -1,0 +1,66 @@
+-=-=- Exercícios de Fixação -=-=-
+
+-> Questão 1
+Passos para criação de um novo projeto no Visual Studio:
+- Na tela inicial, clique em “Criar um projeto”;
+- Selecione o modelo “Projeto Vazio”;
+- Dê um nome para o projeto;
+- O programa reiniciará com o projeto criado e aberto.
+
+
+-> Questão 2
+Para fechar o projeto sem fechar o Visual Studio:
+- No canto superior esquerdo clique em “Arquivo”;
+- Escolha a opção “Fechar Solução”.
+
+
+-> Questão 3
+Para apagar um projeto no Visual Studio:
+- Vá até o diretório dos projetos;
+- Exclua a pasta com o nome do projeto desejado;
+- No Visual Studio, clique com o botão direito no arquivo do projeto;
+- Selecione “Remover da lista”.
+
+
+-> Questão 4
+O arquivo primeiro.cpp está em: C:\Visual Studio\ProjectsProgComp\ProgComp.
+Para criar e executar o arquivo de código segundo.cpp:
+- Abra o projeto no Visual Studio;
+- No menu “Gerenciador de Soluções” clique com o botão direito em “Arquivos de Origem”;
+- No submenu “Adicionar” selecione “Novo item”;
+- Selecione “Arquivo do C++ (.cpp)”;
+- Coloque o nome correto;
+- Clique no botão “Adicionar”;
+- No menu “Gerenciador de Soluções” clique com o botão direito no arquivo “primeiro.cpp”;
+- Selecione “Excluir do Projeto”;
+- Digite o código desejado e pressione a tecla f5 para compilar e executar.
+
+
+-> Questão 5
+Imediatamente após o erro, o Visual Studio oferece um menu com o log do programa chamado “Saída”, e um outro menu com a lista formatada de erros chamado “Lista de Erros”. Além disso, podemos usar a ferramenta de depuração para executar o código pausadamente enquanto conferimos os valores individuais das variáveis.
+
+
+-> Questão 6
+Para iniciar a depuração:
+- No menu superior clique em “Depurar”;
+- Selecione a opção “Iniciar Depuração”;
+- Como alternativa, aperte a tecla f5 ou clique na opção “Depurador Local do Windows” das ferramentas acima do código.
+Em caso de erro de sintaxe, a depuração não iniciará.
+
+
+-> Questão 7
+O ponto de parada (breakpoint) é uma ferramenta para realizar uma pausa no código durante sua depuração. Para adicionar, basta passar o mouse na barra à esquerda do código e clicar na bolinha equivalente da linha onde a pausa será feita.
+
+
+-> Questão 8
+De acordo com a Documentação do Visual Studio é possível observar o valor de uma variável durante a depuração com os recursos “Janela de Inspeção” e “QuickWatch”
+
+-=-=- Exercícios de Aprendizagem -=-=-
+
+-> Questão 3
+Os valores das variáveis são: a = 649; b = 0; c = 0.
+Se retirarmos o c = 0, o processo de compilação falha devido ao erro da linha a = c, onde atribuímos à variável a uma variável sem valor definido.
+
+
+-> Questão 4
+No programa anterior, a ferramenta “Pular Método” do depurador parava na linha de declaração das variáveis, pois havia uma atribuição de valor no trecho c = 0. No programa atual, a linha int a, b, c; faz apenas a declaração das variáveis, portanto não há necessidade em pausar.

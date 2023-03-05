@@ -1,0 +1,6 @@
+-=-=- Exercícios de Aprendizado -=-=-
+
+-> Questão 5
+Para usar o espaço disponível da variável "resultado", os componentes da operação também devem ser do tipo "long long", pois o compilador irá escolher o tipo do componente mais espaçoso, que como no exemplo, pode não ser o suficiente. 
+
+Por isso, minha solução foi criar variáveis "long long" para armazenar os valores. Também seria possível criar apenas uma variável deste tipo e colocar o outro valor direto na operação, mas por uma questão estética preferi declarar os dois valores.

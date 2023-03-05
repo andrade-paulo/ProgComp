@@ -1,0 +1,74 @@
+-> Questão 1 
+A história das linguagens de programação é dividida em 5 gerações:
+- Linguagens de máquina;
+- Linguagens assembly de baixo nível;
+- Linguagens de alto nível (C, C++, Java);
+- Linguagens de alto nível que se assemelham à linguagem humana (Python, SQL, Ruby).
+Além da divisão histórica, existe a classificação por paradigmas:
+- Linguagem não-estruturada: Permite desvio no fluxo do programa, sendo assim uma linguagem sem estrutura;
+- Linguagem estruturada: Divide o programa em estruturas, podendo ser do tipo sequência, condição ou repetição;
+- Linguagem orientada a objetos: Modela o programa através de objetos, com suas respectivas características e ações.
+
+
+-> Questão 2
+De acordo com a Stack Overflow Developer Survey 2022, o ranking das linguagens de programação, scripting e marcação mais populares é:
+- JavaScript (65.36%)
+- HTML/CSS (55.08%)
+- SQL (49.43%)
+- Python (48.07%)
+- TypeScript (34.83%)
+- Java (33.27%)
+- Bash/Shell (29.07%)
+- C# (27.98%)
+- C++ (22.55%)
+- PHP (20.87%)
+
+
+-> Questão 3
+A linguagem de programação compilada passa pelo processo de conversão para código de máquina, dessa forma o desempenho tende a ser superior. Como exemplos, temos: COBOL, C, C++ e C#.
+
+Já a linguagem de programação interpretada executa o código sem passar pelo processo de compilação, tornando o processo de execução mais custoso e lento. Exemplos: Python, JavaScript e Perl.
+
+
+-> Questão 4
+De acordo com a Stack Overflow Developer Survey 2022, o ranking dos editores de códigos mais populares é:
+- Visual Studio Code (74.48%)
+- Visual Studio (32.15%)
+- IntelliJ (27.97%)
+- Notepad++ (27.71%)
+- Vim (23.34%)
+- Android Studio (19.8%)
+- PyCharm (17.24%)
+- Sublime Text (16.59%)
+- Eclipse (12.57%)
+- IPython/Jupyter (11.61%)
+
+
+-> Questão 5
+Os ambientes de desenvolvimento, conhecidos como IDE (Integrated Development Environment) são ferramentas robustas com várias ferramentas úteis para o desenvolvimento de softwares. Como exemplo, temos o Visual Studio. 
+
+Já os editores de código são mais parecidos com editores de texto com formatação de cores e texto para facilitar a escrita de códigos. Podem, ou não, conter ferramentas mais simples.
+
+
+-> Questão 6
+De acordo com a pesquisa Developer Ecosystem 2021 da JetBrains:
+- Visual Studio Code
+- CLion
+- Visual Studio
+- Vi/Vim
+- QtCreator
+- Emacs
+- Sublime
+- Xcode
+- Android Studio
+- AppCode
+
+
+-> Questão 7
+De acordo com a pesquisa Developer Ecosystem 2021 da JetBrains:
+- GCC
+- Clang
+- MSVC
+- Intel
+- Compiladores para microcomputadores
+- Customizados e outros

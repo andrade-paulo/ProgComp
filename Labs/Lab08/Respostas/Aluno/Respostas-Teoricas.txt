@@ -1,0 +1,7 @@
+-=-=- Fixação -=-=-
+-> Questão 1 
+b) A diferença entre os resultados float e double se dá devido ao método de cálculo do valor decimal, que utiliza frações de 1/2^x. Já que o double tem um alcance maior, se torna capaz de considerar frações com valores muito menores, que podem ser somados para dar mais precisão ao resultado. Já a diferença entre a exibição de 6 casas decimais e a de 10 casas decimais acontece devido ao arredondamento do "cout".
+
+c) Sim, o comando "cout" faz arredondamentos de acordo com a quantidade de casas decimais exibidas. O resultado float, devido à perda de precisão, difere do resultado mais preciso a partir da 6ª casa decimal.
+
+d) As tabelas de IMC normalmente apresentam os valores com uma casa decimal apenas. Portanto, caso não haja um requisito específico, o float retorna um resultado suficientemente preciso.

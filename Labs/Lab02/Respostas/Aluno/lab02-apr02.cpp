@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "\n\xC9\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xBB";
+	cout << "\n\xBA\t\xBA";
+	cout << "\n\xC8\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xBC\n";
+
+}
