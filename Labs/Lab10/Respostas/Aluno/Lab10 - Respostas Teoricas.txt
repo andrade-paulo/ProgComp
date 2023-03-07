@@ -1,0 +1,4 @@
+-=-=- Aprendizagem -=-=-
+-> Questão 4
+A posição não é sempre a mesma, algumas vezes o próprio recurso de correção do Visual Studio não permite a execução do código. 
+Podemos concluir que, ao executar o programa, o computador reserva um espaço limitado na memória para o executável, que é diferente do espaço reservado para o vetor. Se o espaço do programa for superado, um erro ocorre. Porém, caso apenas o espaço do vetor seja superado, o compilador não reporta um erro.
