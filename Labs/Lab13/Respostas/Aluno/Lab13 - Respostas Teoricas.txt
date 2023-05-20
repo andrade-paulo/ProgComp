@@ -1,0 +1,23 @@
+-=-=- Exercícios de Revisão -=-=-
+
+-> Questão 1
+a) bola[10]
+b) bola
+c) char[30]
+d) char
+e) direcao
+f) identificador
+g) int
+h) float
+
+-=-=- Exercícios de Aprendizado -=-=-
+
+-> Questão 1
+a) gol[10]
+b) gol
+c) jogador
+d) int
+e) trave
+f) float
+g) char
+h) float

@@ -1,0 +1,4 @@
+-=-=- Exercícios de Aprendizado -=-=-
+
+-> Questão 1
+Não são válidas, pois o comando `delete` só pode ser usado para casos de alocação dinâmica de memório.

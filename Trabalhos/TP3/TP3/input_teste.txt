@@ -1,0 +1,6 @@
+A Massa 2.50 70
+A Queijo 15.00 50
+A Frango 22.50 15
+A Molho 8.20 98
+A Presunto 11.20 32
+P pedido.txt
